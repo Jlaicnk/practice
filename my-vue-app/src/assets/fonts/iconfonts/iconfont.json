@@ -1,0 +1,30 @@
+{
+  "id": "4685410",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12316676",
+      "name": "收藏",
+      "font_class": "shoucang1",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "12316679",
+      "name": "已收藏",
+      "font_class": "yishoucang",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "7008967",
+      "name": "mine",
+      "font_class": "mine",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    }
+  ]
+}
